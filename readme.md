@@ -8,3 +8,4 @@ This code implements a simple tkinter GUI application that counts the number of 
 4. The label will display the number of seconds remaining.
 5. If you don't write anything within the time limit, the text field will be cleared and the number of words you wrote will be displayed in the label.
 6. You can continue writing in the text field to start the timer again.
+![screen](screenshot.png)
